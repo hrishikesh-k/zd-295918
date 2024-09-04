@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@astrojs/netlify": "5.5.1",
+    "@astrojs/ts-plugin": "^1.10.1",
+    "@types/node": "22.5.3",
+    "astro": "4.15.2",
+    "typescript": "5.5.4"
+  },
+  "name": "zd-295918",
+  "private": true,
+  "scripts": {
+    "build": "astro build",
+    "dev": "astro dev",
+    "typecheck": "astro check"
+  },
+  "type": "module",
+  "version": "0.0.1"
+}

@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "plugins": [
+      {
+        "name": "@astrojs/ts-plugin"
+      }
+    ],
+    "verbatimModuleSyntax": true
+  },
+  "extends": "astro/tsconfigs/base"
+}
