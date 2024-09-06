@@ -1,10 +1,10 @@
 {
   "dependencies": {
     "@astrojs/netlify": "5.5.1",
-    "@astrojs/ts-plugin": "1.10.1",
+    "@astrojs/ts-plugin": "1.10.2",
     "@types/node": "22.5.4",
     "astro": "4.15.3",
-    "netlify-cli": "^17.34.3",
+    "netlify-cli": "17.35.0",
     "typescript": "5.5.4"
   },
   "name": "zd-295918",

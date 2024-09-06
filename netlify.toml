@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "./dist/"
+
+[[redirects]]
+  force = true
+  from = "/netlify/*"
+  status = 301
+  to = "https://www.netlify.com/"
