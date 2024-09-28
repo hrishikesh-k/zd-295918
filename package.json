@@ -4,7 +4,7 @@
     "@astrojs/ts-plugin": "1.10.2",
     "@types/node": "22.5.4",
     "astro": "4.15.3",
-    "netlify-cli": "17.35.0",
+    "netlify-cli": "17.36.2",
     "typescript": "5.5.4"
   },
   "name": "zd-295918",
